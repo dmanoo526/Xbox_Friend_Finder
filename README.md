@@ -2,9 +2,9 @@
 
 ### How it works:
 
-This solution aims to find all unique friends of users from Xbox_API_DATA tab in Cocal_Xbox_Users_Dhanvin_Project and push them to Friends_Of_Gamertags_in_Xbox_API_DATA_Dhanvin tab
-It takes all 9984 users in the original tab and appends unique friends of all of them to the second tab
-If a friend of one user is already listed as a friend of another, it keeps track of this using the popularity attribute
+This solution aims to find all unique friends of users from Xbox_API_DATA tab in Cocal_Xbox_Users_Dhanvin_Project and push them to Friends_Of_Gamertags_in_Xbox_API_DATA_Dhanvin tab.
+It takes all 9984 users in the original tab and appends unique friends of all of them to the second tab.
+If a friend of one user is already listed as a friend of another, it keeps track of this using the popularity attribute.
 
 _________________________________________________________________
 
